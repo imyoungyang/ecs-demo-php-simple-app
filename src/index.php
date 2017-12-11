@@ -13,7 +13,7 @@
     </head>
 
     <body>
-        <div class="container">
+        <div class="container" style="background-color: #20E941">
             <div class="hero-unit">
                 <h1>Simple PHP App for Docker V2</h1>
                 <h2>Congratulations</h2>
